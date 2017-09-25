@@ -1,4 +1,6 @@
 '''
+@author: Amal Rajan <amalrajan74@gmail.com>
+
 Problem Statement:
 
 Surprisingly there are only three numbers that can be written as the sum of fourth powers of their digits:
@@ -16,7 +18,7 @@ Find the sum of all the numbers that can be written as the sum of fifth powers o
 n = 5
 s = 0
 
-for num in range(10, 10**(n+1)-1):
+for num in range(n*9**n, (n+1)*9**n):
 	val = sum([int(j)**n for j in str(num)])
 	if val == num:
 		s += val
