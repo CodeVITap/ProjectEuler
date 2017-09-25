@@ -24,7 +24,7 @@ Index
   "Largest product in a grid", `011 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/011.py>`_, "<link>", "<link>"
   "Highly divisible triangular number", `012 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/012.py>`_, `012 <https://github.com/CodeVITap/ProjectEuler/blob/master/cpp/012.cpp>`_, "<link>"
   "Large sum", `013 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/013.py>`_, "<link>", "<link>"
-  "Longest Collatz sequence", `014 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/014.py>`_, "<link>", "<link>"
+  "Longest Collatz sequence", `014 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/014.py>`_, `014 <https://github.com/CodeVITap/ProjectEuler/blob/master/cpp/014.cpp>`_, "<link>"
   "Lattice paths", `015 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/015.py>`_, "<link>", "<link>"
   "Power digit sum", `016 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/016.py>`_, "<link>", "<link>"
   "Number Letter Count", `017 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/017.py>`_, "<link>", "<link>"
