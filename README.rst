@@ -47,3 +47,13 @@ Cloning over SSH::
   $ git clone git@github.com:CodeVITap/ProjectEuler.git
   $ cd ProjectEuler
   $ ls
+  
+ 
+ Compiler Specifications
+ #######################
+ 
+**C++**: 
+All the codes posted on this repository are compliant with the C++ 11 standards. Older standards may work, but are not supported.
+
+**Python**
+All the scripts posted on this repostiory are meant to be run only on Python 3.*. Older versions of Python may work with slight modifications.
