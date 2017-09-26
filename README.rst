@@ -48,12 +48,15 @@ Cloning over SSH::
   $ cd ProjectEuler
   $ ls
   
- 
- Compiler Specifications
- #######################
- 
+
+
+Compiler Specifications
+#######################
+
 **C++**: 
+
 All the codes posted on this repository are compliant with the C++ 11 standards. Older standards may work, but are not supported.
 
-**Python**
+**Python**:
+
 All the scripts posted on this repostiory are meant to be run only on Python 3.*. Older versions of Python may work with slight modifications.
